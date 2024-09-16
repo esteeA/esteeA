@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @esteeA
 - 👀 I’m interested in programming and art
-- 🌱 I’m currently learning everything aws
-- 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me @bansielesar1@gmail.com
+- 🌱 I learn everything aws and security.
+- 📫Reach me via email on estheroawudu@icloud.com
 
 <!---
 esteeA/esteeA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
